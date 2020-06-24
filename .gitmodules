@@ -1,3 +1,6 @@
 [submodule "ifood-2019-fgvc6"]
 	path = ifood-2019-fgvc6
 	url = git@gist.github.com:c5bfcac3b4ccf671cbb22e8444ca8c24.git
+[submodule "imaterialist-product-2019"]
+	path = imaterialist-product-2019
+	url = git@gist.github.com:838a23efdf39dafd2175718e374b3ed2.git
